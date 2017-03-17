@@ -2,7 +2,7 @@
 <?php
 echo "okok pass";
 
-$link = mysql_connect('sql6.freemysqlhosting.net', 'sql6159246', 'DBUUiG4F5U');
+$link = mysql_connect('sql12.freemysqlhosting.net', 'sql12164271', 'ShxeHByM84');
 if (!$link) {
     die('Could not connect: ' . mysql_error());
 }else{
@@ -17,9 +17,9 @@ echo "okok";
 ?>
 
 
-<!-- Server: sql6.freemysqlhosting.net
-Name: sql6159246
-Username: sql6159246
-Password: DBUUiG4F5U
+<!-- Server: sql12.freemysqlhosting.net
+Name: sql12164271
+Username: sql12164271
+Password: ShxeHByM84
 Port number: 3306 -->
 
